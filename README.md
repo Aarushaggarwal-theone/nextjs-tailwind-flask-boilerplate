@@ -53,7 +53,7 @@ Make sure you have
 First you need to clone the repository
 
   ```
-  git clone https://github.com/Shreedhar-Raj/nextjs-flask-boilerplate.git
+  git clone https://github.com/Shreedhar-Raj/nextjs-tailwind-flask-boilerplate.git
   ```
 
 
